@@ -6,6 +6,9 @@ https://youtu.be/1Iy8rb0m9hI
 Overleaf link: 
 https://www.overleaf.com/project/662685fad53bfe8769c3ef0d
 
+Google slide link:
+https://docs.google.com/presentation/d/1B91wRD2qakpcVvE083Fup4cSJaUTWIIIfHu5Yy2_FIo/edit?usp=sharing
+
 Project title: 
 Shedding Light on Disinformation: Detecting Bangla Fake News using low rank adaption of large language model
 
