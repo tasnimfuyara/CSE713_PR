@@ -1,7 +1,10 @@
 This repository is for Task 4d, CSE713 project.
 
-Code link:
+Code link(View from kaggle):
 https://www.kaggle.com/code/urbanshinobi/cse-713-project
+
+Code link(also view from colab):
+https://colab.research.google.com/drive/1dLanJq9S2cqoAZXEzBVI5Fq_Zr2UKVyc?usp=sharing
 
 Project title: 
 Shedding Light on Disinformation: Detecting Bangla Fake News using low rank adaption of large language model
